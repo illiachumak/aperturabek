@@ -1,0 +1,10 @@
+Django==4.2.7
+django-jazzmin==2.6.0
+djangorestframework==3.14.0
+Pillow==10.1.0
+Psycopg2-binary
+python-decouple
+whitenoise
+boto3
+django-storages
+django-cors-headers
